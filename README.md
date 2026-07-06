@@ -1,1 +1,1 @@
-# web-basic-template
+# 웹 페이지 템플릿
